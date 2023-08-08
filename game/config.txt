@@ -2,4 +2,4 @@ Game_name:SummerTime;
 Game_key:AonoRaisai;
 Package_name:;
 Title_bgm:ybslda.mp3;
-Title_img:封面.png;
+Title_img:cover.png;
