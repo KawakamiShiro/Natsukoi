@@ -1,0 +1,12 @@
+changeBg:japanese_room_a.jpg;
+changeFigure:A_standard.png -left -next;
+changeFigure:R_standard.png -right -next -id=R_standard;
+青野:……噢。;
+changeFigure:R_talk.png -right;
+雷岁:你现在什么段位了？;
+青野:还在绿豆三呢。;
+changeFigure: -right -id=R_talk;
+雷岁:今天必带你上红豆好吧！;
+:前几天刚上神话，也就是“红豆”段位的我信心满满。;
+: ……;
+:然后双排了一天我跟着掉回了绿豆三。;

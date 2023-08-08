@@ -1,0 +1,5 @@
+Game_name:夏恋·なつこい;
+Game_key:AonoRaisai;
+Package_name:;
+Title_bgm:s_Title.mp3;
+Title_img:WebGAL_New_Enter_Image.png;
