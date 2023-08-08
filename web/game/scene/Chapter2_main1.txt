@@ -1,0 +1,8 @@
+changeBg:japanese_room_a.jpg -next;
+changeFigure:A_standard.png -left -next -id=A_standard;
+changeFigure:R_talk.png -right -id=R_talk;
+雷岁:打游戏？最新最in的Valorant。我还有个备用机。;
+青野:行，你开播吗？;
+雷岁:不播。;
+changeFigure:R_standard.png -right -id=R_standard;
+:想都不用想，要是我开播，某人又要说什么“线下甜蜜双排”之类的口无遮拦地臊皮然后又被剪成cp切片。;
