@@ -1,11 +1,14 @@
+changeFigure:R_talk.png -next;
 雷岁: 要的。;
 : 虽然我不信这些，但还是学着周围的香客，装模作样地拜了几下。;
 雷岁: 如果许的愿望真的能成真的话……;
+changeFigure:none;
 : 请让青野回来吧。;
 : 如果你是真心喜欢我的话，就不要留我一个人在这里啊。;
-changeBg:none;
+changeBg: -next;
+changeBg:house_room_weekly_apartment_a.jpg -next;
 : 我迷迷糊糊地睁开眼睛，在家，早上。;
-: 打开微信是青野5:20发的晚安，他说，今天就是正式退网，想找个地方旅游散心;
+: 打开微信是青野5:20发的晚安，他说，今天就是正式退网的日子了，想找个地方旅游散心。;
 : 我说，不如来我这儿玩吧。;
-intro:Ending2|永不失联的爱;
+intro:Ending1|永不失联的爱;
 end;

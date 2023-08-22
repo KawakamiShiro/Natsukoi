@@ -1,0 +1,26 @@
+changeBg:japanese_room_a.jpg -next;
+:这几天都在陪他，连朋友圈都没怎么看，也不知道他会不会深夜发emo文案了。;
+: 还是看一眼吧。;
+: 又在凌晨发什么伤感歌词——;
+changeFigure:A_happy.png -left -next;
+青野: 怎么在看我朋友圈啊？岁哥哥这么关心我，我真的哭死。;
+changeFigure:R_embarrassed.png -right -next;
+雷岁: 关心一下年轻人的精神状态。;
+青野: 唉，铁暗恋，嗑到了。;
+changeFigure: -right -next;
+changeFigure:R_annoy.png -right -next;
+雷岁: 我看你是嗑到头了吧！;
+changeFigure: -left -next;
+changeFigure:A_standard.png -left;
+青野:订好包厢了！想听你唱彩虹糖的梦。
+雷岁:滚啊，我不会唱的。
+changeBg: -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+changeBg:disco000.jpg -next;
+:于是就变成了在KTV里，我看弹幕他唱歌。虽然我的直播间他卖艺有点诡异。
+:他唱的歌都非常有他的风格，又痛又玉玉，不过也有一些他直播也唱过的甜歌。
+: 看一下还点了什么歌。;
+: 下一首歌是: ;
+changeBg: -next;
+choose:永不失联的爱:ending_34.txt|灰姑娘:ending5.txt;
