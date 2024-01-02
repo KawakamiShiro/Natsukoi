@@ -1,0 +1,16 @@
+changeBg:japanese_room_a.jpg -next;
+:这几天都在陪他，没必要再看他又发什么朋友圈了吧;
+changeFigure:A_happy.png -left -next;
+青野:订好包厢了！想听你唱彩虹糖的梦。
+changeFigure:R_annoy.png -right -next;
+雷岁:滚啊，我不会唱的。
+changeBg: -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+changeBg:disco000.jpg -next;
+:于是就变成了在KTV里，我看弹幕他唱歌。虽然我的直播间他卖艺有点诡异。
+:他唱的歌都非常有他的风格，又痛又玉玉，不过也有一些他直播也唱过的甜歌。
+: 看一下还点了什么歌。;
+: 下一首歌是: ;
+changeBg: -next;
+choose:永不失联的爱:ending_34.txt|单相思:单相思.txt|不要说话:不要说话.txt;

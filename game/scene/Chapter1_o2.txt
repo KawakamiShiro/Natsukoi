@@ -55,4 +55,4 @@ changeFigure: -left -next;
 changeFigure: -right -next;
 changeBg: -next;
 callScene:Chapter_d2.txt
-choose:看朋友圈:Chapter2_o1.txt;
+choose:看朋友圈:Chapter2_o1.txt|不看:Chapter2_o2.txt;

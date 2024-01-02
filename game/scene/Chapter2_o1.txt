@@ -23,4 +23,4 @@ changeBg:disco000.jpg -next;
 : 看一下还点了什么歌。;
 : 下一首歌是: ;
 changeBg: -next;
-choose:永不失联的爱:ending_34.txt;
+choose:永不失联的爱:ending_34.txt|单相思:单相思.txt|带我去很远地方:带我去很远地方.txt;

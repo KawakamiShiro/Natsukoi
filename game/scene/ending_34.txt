@@ -17,6 +17,7 @@ changeFigure:R_standard.png -right -next;
 bgm:none;
 bgm:ybslda.mp3;
 :但他把话筒递给我我还是唱了。;
+unlockCg:;
 青野:这种就是典型的傲娇;
 雷岁:……老馋。;
 :我小声嘀咕着，开始认认真真找调，虽然实际唱得还是有些一言难尽。;
@@ -92,4 +93,4 @@ changeFigure: -left -next;
 changeFigure: -right -next;
 changeBg:;
 
-choose:算了吧，你这都没收入了还是给自己花钱吧:ending3.txt|其实……你也可以住下来的:ending4.txt;
+choose:算了吧，你这都没收入了还是给自己花钱吧:ending3.txt|其实……你也可以住下来的:ending4.txt;ending4.txt;

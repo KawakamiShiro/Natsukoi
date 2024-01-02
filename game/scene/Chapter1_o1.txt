@@ -76,7 +76,7 @@ changeBg:disco000.jpg;
 changeFigure:none -left;
 changeFigure: -right;
 :于是就变成了在KTV里，我看弹幕他唱歌。虽然我的直播间他卖艺有点诡异。;
-unlockCg:Aono_KTV.png;
+unlockCg:;
 changeFigure:A_standard.png -next;
 :他唱的歌都非常有他的风格，又痛又玉玉，不过也有一些他直播也唱过的甜歌。;
 青野:下面一首歌，我想唱给某个人。;
