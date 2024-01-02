@@ -26,7 +26,7 @@ bgm:带我去很远地方_伴奏.mp3;
 青野: 渐行渐远的光亮;
 青野: 就让它随波荡漾;
 青野: 把回去的路遗忘;
-: ……；
+: ……;
 青野: 就带我流浪带我去很远地方;
 青野: 请带我去很远地方;
 青野: 去他乡 陌生方向;
@@ -176,7 +176,7 @@ changeFigure:A_standard.png -next;
 青野: 好，那我们明天见。;
 : 我不知道未来会怎么样，;
 : 至少我们可以一起面对明天。;
-intro:我们死而复活|我们失而复得|旧事已过 都变成新的；
+intro:我们死而复活|我们失而复得|旧事已过 都变成新的;
 intro: 有新的心跳;
 intro: TRUE ENDING:|LOVE IS NOT EVERYTHING,|BUT LOVE CAN BE SOMETHING.
 intro: 我们走出了Summer Time。;

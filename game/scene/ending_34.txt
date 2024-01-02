@@ -14,7 +14,6 @@ changeFigure:R_annoy.png -right -next;
 changeFigure: -right -next;
 changeFigure:R_standard.png -right -next;
 :这是他惯说的臊皮话，还有去年的他说什么“星空杯结束我们就结婚”，我当时还怕他当真了。;
-bgm:none;
 bgm:ybslda.mp3;
 :但他把话筒递给我我还是唱了。;
 unlockCg:;
